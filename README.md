@@ -1,4 +1,4 @@
-# SwiftGen
+# SwiftGen test
 
 [![CircleCI](https://circleci.com/gh/SwiftGen/SwiftGen/tree/master.svg?style=svg)](https://circleci.com/gh/SwiftGen/SwiftGen/tree/master)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/SwiftGen.svg)](https://img.shields.io/cocoapods/v/SwiftGen.svg)
